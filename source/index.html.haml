@@ -1,0 +1,32 @@
+---
+title:  Portland, OR's user group for Cloud Technology Enthusiasts
+bodyclass: front-page
+---
+
+.main_block
+  .resources
+    :markdown
+      ### Resources
+
+      links, etc
+  .meetings
+    :markdown
+      ### Next Meeting is Wednesday, April 10th, 2013
+
+      #### Data Transfer and Storage Optimization in Amazon Web Services
+
+      Elemental Technologies specializes in video transcoding software, and 
+      moving video around means moving huge amounts of data. Elemental's CTO, 
+      Jesse Rosenzweig, will share tricks and techniques for getting data in 
+      and out of the cloud quickly and safely. He will cover various options 
+      and configurations within Amazon Web Services, including ways to get 
+      the most out of S3 (Simple Storage Service) and EBS (Elastic Block Store).
+
+  .past_events
+    %h3 Past Meetings
+
+    %ol
+      - blog.articles[0...10].each do |article|
+        %li
+          = link_to article.title, article
+          %span= article.date.strftime('%b %e')

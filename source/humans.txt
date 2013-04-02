@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Jason LaPier -- Organizer -- @jlapier
+
+# THANKS
+
+    Elemental Technologies (meeting space)
+    Other Sponsors: Glider
+    Speakers
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
