@@ -1,0 +1,7 @@
+%h3 Past Meetings
+
+%ul
+  - blog.articles.select {|a| a.data[:archive]}[0...10].each do |article|
+    %li
+      = link_to article.title, article
+      %span= "- #{article.data.subtitle}"

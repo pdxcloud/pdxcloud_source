@@ -1,43 +1,31 @@
 ---
-title:  Portland, OR's user group for Cloud Technology Enthusiasts
+title:  Portland, Oregon's user group for Cloud Technology Professionals and Enthusiasts
 bodyclass: front-page
 ---
 
-.main_block
-  .resources
-    :markdown
-      ### Resources
+.resources
+  .inner
+    %h4 Where to Find Us
+    %p
+      We meet the second Wednesday of every month. To learn more, check out 
+      the following links:
+    %p
+      = link_to "Google Group/Mailing List", "https://groups.google.com/forum/?fromgroups#!forum/pdxcloud"
+    %p
+      = link_to "Meetup", "http://www.meetup.com/PDXCloud"
+    %p
+      = link_to "GitHub/PDXCloud", "https://github.com/pdxcloud"
+    %p
+      = link_to "Calagator", "http://calagator.org/events/search?query=pdxcloud"
 
-      links, etc
-  .meetings
-    :markdown
-      ### Next Meeting is Wednesday, April 10th, 2013
+.meetings
+  .inner
+    %h3
+      Next Meeting is
+      = blog.articles.first.title
+    .meeting_description
+      = blog.articles.first.body
 
-      #### Data Transfer and Storage Optimization in Amazon Web Services
-
-      Elemental Technologies specializes in video transcoding software, and 
-      moving video around means moving huge amounts of data. Elemental's CTO, 
-      Jesse Rosenzweig, will share tricks and techniques for getting data in 
-      and out of the cloud quickly and safely. He will cover various options 
-      and configurations within Amazon Web Services, including ways to get 
-      the most out of S3 (Simple Storage Service) and EBS (Elastic Block Store).
-
-  .past_events
-    %h3 Past Meetings
-
-    %ol
-      - blog.articles[0...10].each do |article|
-        %li
-          = link_to article.title, article
-          %span= article.date.strftime('%b %e')
-
-.sponsors
-  %h3 Sponsors, Contributors, and Friends
-
-  %p
-    PDXCloud is made possible by the contributions of the following awesome
-    companies:
-
-  %p
-    You can bet that most of these fine folks are hiring. As tech community
-    supporters, they deserve your consideration!
+.past_events
+  .inner
+    = partial "past_events"

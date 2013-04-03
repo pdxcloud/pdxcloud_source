@@ -1,0 +1,15 @@
+---
+title: March 13th, 2013
+subtitle: Automate your CI and Deployment Processes
+archive: true
+calagator: http://calagator.org/events/1250463780
+meetup: http://www.meetup.com/PDXCloud/events/107970162/
+plancast: http://plancast.com/p/h2k0
+---
+
+## Topic: Automate your CI and Deployment Processes
+### Maciej "Ski" Skierkowski
+#### CEO, [Factor.io](http://factor.io)
+
+One of the top challenges of developing web-based services is building the continuous deployment process. Engineering teams spend over 30% of their developer resources building processes like “Deploy my app to Heroku from Github when I say 'deploy' in HipChat”. Most of this time is spent gluing together numerous services (e.g. Github, AWS, Hipchat) and technologies (e.g. Chef, Salt Stack) to work in a cohesive workflow. Maciej Skierkowski, co-founder and CEO of Factor.io, will show how you can automate your continuous integration and deployment processes in just a couple minutes.
+

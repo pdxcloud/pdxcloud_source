@@ -27,6 +27,7 @@ require 'susy'
 
 activate :blog do |blog|
   blog.prefix = "meetings"
+  blog.layout = "meeting"
 end
 
 ###

@@ -1,9 +1,16 @@
 ---
 title: April 10th, 2013
+subtitle: Storage in AWS
+archive: false
+calagator: 
+meetup: 
+plancast: 
 ---
 
-### Jesse Rosenzweig, CTO, Elemental Technologies
+## Topic: Storage in AWS
+### Jesse Rosenzweig
+#### CTO, [Elemental Technologies](http://elementaltechnologies.com)
 
-desc of talk
+##### Data Transfer and Storage Optimization in Amazon Web Services
 
-slides
+Elemental Technologies specializes in video transcoding software, and moving video around means moving huge amounts of data. Elemental's CTO, Jesse Rosenzweig, will share tricks and techniques for getting data in and out of the cloud quickly and safely. He will cover various options and configurations within Amazon Web Services, including ways to get the most out of S3 (Simple Storage Service) and EBS (Elastic Block Store).

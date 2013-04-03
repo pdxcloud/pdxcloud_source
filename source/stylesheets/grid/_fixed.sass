@@ -33,13 +33,17 @@ header, #main-content, footer
 
 
 .main_block
+  .meeting_page
+    @include span-columns(9)
   .resources
     @include span-columns(3)
   .meetings
-    @include span-columns(5)
+    @include span-columns(6)
   .past_events
+    @include span-columns(3 omega)
+
+header
+  .main_title
+    @include span-columns(8)
+  .next_meeting
     @include span-columns(4 omega)
-.sponsors
-  @include span-columns(12 omega)
-
-
