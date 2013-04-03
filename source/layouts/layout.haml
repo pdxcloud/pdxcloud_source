@@ -20,7 +20,6 @@
     -# Place favicon.ico and apple-touch-icon.png in the root directory
 
     = stylesheet_link_tag "screen"
-    = stylesheet_link_tag "bootstrap.min"
     = javascript_include_tag "libs/modernizr-2.6.1.min"
 
   %body{:class => current_page.data.bodyclass}
@@ -29,8 +28,7 @@
         You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.
     .container
       %header
-        %h1
-          = link_to "PDXCloud", "/"
+        =link_to image_tag("/images/pdx_cloud_logo.png"), "/"
         %h2= current_page.data.title
 
       #main-content{:role => "main"}

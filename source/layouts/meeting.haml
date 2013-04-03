@@ -20,7 +20,6 @@
     -# Place favicon.ico and apple-touch-icon.png in the root directory
 
     = stylesheet_link_tag "screen"
-    = stylesheet_link_tag "bootstrap.min"
     = javascript_include_tag "libs/modernizr-2.6.1.min"
 
   %body{:class => current_page.data.bodyclass}
@@ -30,7 +29,7 @@
     .container
       %header
         .main_title
-          %h1= link_to "PDXCloud", "/"
+          =link_to image_tag("/images/pdx_cloud_logo.png"), "/"
           %h2= "Meeting: #{current_page.data.title}"
         .next_meeting
           .inner
