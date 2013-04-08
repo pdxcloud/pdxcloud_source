@@ -3,6 +3,7 @@ title:  Portland, Oregon's user group for Cloud Technology Professionals and Ent
 bodyclass: front-page
 ---
 
+- current_meeting = blog.articles.detect {|a| !a.data.archive }
 .resources
   .inner
     %h4 Where to Find Us
@@ -22,9 +23,9 @@ bodyclass: front-page
   .inner
     %h3
       Next Meeting is
-      = blog.articles.first.title
+      = current_meeting.title
     .meeting_description
-      = blog.articles.first.body
+      = blog.articles.detect {|a| !a.data.archive }.body
 
 .past_events
   .inner

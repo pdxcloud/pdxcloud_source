@@ -28,6 +28,7 @@ require 'susy'
 activate :blog do |blog|
   blog.prefix = "meetings"
   blog.layout = "meeting"
+  blog.permalink = ":year/:month/:title.html"
 end
 
 ###

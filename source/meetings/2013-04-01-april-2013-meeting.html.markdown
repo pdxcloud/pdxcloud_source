@@ -2,9 +2,9 @@
 title: April 10th, 2013
 subtitle: Storage in AWS
 archive: false
-calagator: 
-meetup: 
-plancast: 
+calagator: http://calagator.org/events/1250463955
+meetup: http://www.meetup.com/PDXCloud/events/112461922/
+plancast: http://plancast.com/p/hlx0
 ---
 
 ## Topic: Storage in AWS
