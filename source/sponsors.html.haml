@@ -2,7 +2,12 @@
 
 %p
   PDXCloud is made possible by the contributions of the following awesome
-  companies:
+  companies and their employees:
+
+%ul#sponsor_list
+  - ['elemental', 'cloudability', 'opscode', 'joyent', 'glider'].each do |company|
+    %li= link_to image_tag("logos/#{company}.png"), "http://#{company}.com"
+  %li= link_to image_tag("logos/factor.png"), "http://factor.io"
 
 %p
   You can bet that most of these fine folks are hiring. As tech community

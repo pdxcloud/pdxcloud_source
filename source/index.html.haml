@@ -29,4 +29,16 @@ bodyclass: front-page
 
 .past_events
   .inner
+    %h5 RSVP / Add to Calendar
+    %ul
+      - if current_meeting.data.calagator
+        %li= link_to "Calagator", current_meeting.data.calagator
+      - else
+        %li
+          %em (coming soon)
+      - if current_meeting.data.meetup
+        %li= link_to "Meetup", current_meeting.data.meetup
+      - if current_meeting.data.plancast
+        %li= link_to "Plancast", current_meeting.data.plancast
+  .inner
     = partial "past_events"
