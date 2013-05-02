@@ -1,10 +1,10 @@
 ---
-title: April 10th, 2013
+title: May 8th, 2013
 subtitle: Storage in AWS
 archive: false
-calagator: http://calagator.org/events/1250463955
-meetup: http://www.meetup.com/PDXCloud/events/112461922/
-plancast: http://plancast.com/p/hlx0
+calagator: http://calagator.org/events/1250464009
+meetup: http://www.meetup.com/PDXCloud/events/117015702/
+plancast: http://plancast.com/p/hyr7
 ---
 
 ## Topic: Storage in AWS
@@ -14,3 +14,7 @@ plancast: http://plancast.com/p/hlx0
 ##### Data Transfer and Storage Optimization in Amazon Web Services
 
 Elemental Technologies specializes in video transcoding software, and moving video around means moving huge amounts of data. Elemental's CTO, Jesse Rosenzweig, will share tricks and techniques for getting data in and out of the cloud quickly and safely. He will cover various options and configurations within Amazon Web Services, including ways to get the most out of S3 (Simple Storage Service) and EBS (Elastic Block Store).
+
+##### Sponsored by Amazon Web Services
+
+This month AWS is providing free pizza and beer/soda, so join us!

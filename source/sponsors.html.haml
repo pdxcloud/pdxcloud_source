@@ -5,8 +5,8 @@
   companies and their employees:
 
 %ul#sponsor_list
-  - ['elemental', 'cloudability', 'opscode', 'joyent', 'glider'].each do |company|
-    %li= link_to image_tag("logos/#{company}.png"), "http://#{company}.com"
+  - {'elemental' => '', 'cloudability' => '', 'opscode' => '', 'joyent' => '', 'glider' => '/careers' }.each do |company, landing|
+    %li= link_to image_tag("logos/#{company}.png"), "http://#{company}.com#{landing}"
   %li= link_to image_tag("logos/factor.png"), "http://factor.io"
 
 %p
