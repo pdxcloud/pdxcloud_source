@@ -1,0 +1,27 @@
+---
+title: June 12th, 2013
+subtitle: Business Case for Cloud Computing
+archive: false
+calagator: http://calagator.org/events/1250464361
+meetup: http://www.meetup.com/PDXCloud/events/123065012/
+---
+
+## Topic: Business Case for Cloud Computing
+### Galen Pyle
+#### [Slalom Consulting](http://www.slalom.com/)
+
+##### What: Business Case for Cloud Computing
+
+Learn about key cloud concepts like elasticity and scalability. Introduction to Amazon Web Services features like simple storage, elastic compute, security and pricing.
+
+##### Why:
+
+We can use the cloud to enhance customer value propositions while improving organizational efficiency.
+
+This talk is designed to be accessible to business and sales people as well as engaging to techies. So bring your questions from both sides of the cloud equation!
+
+Doors open at 6:30 and presentations begins at 7pm.
+
+##### Sponsored by Elemental Technologies
+
+This month Elemental is providing free pizza and beer/soda, so join us!
