@@ -1,0 +1,49 @@
+---
+title: September 11th, 2013
+subtitle: Cloud-Native DevOps
+archive: false
+calagator: http://calagator.org/events/1250464361
+meetup: http://www.meetup.com/PDXCloud/events/139304862/
+---
+
+## Topic: Cloud-Native DevOps
+### Matthew Hooker
+#### [Simple](http://simple.com/)
+
+##### Abstract
+
+The role of IT administrators is constantly evolving. We've been burdened
+(bestowed?) with the task of automating as much as possible as our
+infrastructure changes faster than we can keep up.
+
+Until 2005, you were probably using CFEngine or shell scripts and whatever
+package manager your OS supported. Around that time Puppet and Chef dropped, and
+it was enlightening. Then, in 2008, EC2 went stable, and the term DevOps started
+gaining popularity the next year.
+
+Unfortunately, both Puppet and Chef arrived just on the cusp of the
+transition to IaaS, before we understood best practices for operating in this
+new environment. These tools were the product of years of experience operating
+raw hardware. There is something lost in translation when we apply these tools
+to the cloud.
+
+This talk is about how we've worked to bridge the gap, to go
+Cloud-Native. I'll demonstrate the impedance mismatch that occurs when you run
+chef in the cloud, and how we created a system better adapted to this new
+environment. I'll argue that instances need to be treated as ephemeral; that the
+ability to quickly launch instances is critical to agility; and reinforce the
+idea that automation is essential at every step of the process.
+
+By the end I hope I can convince you that there are ways to operate with
+more agility, to insulate yourselves from failure, and let every engineer sleep
+better at night.
+
+I also hope to inspire you to look for the gaps, and to come up with better
+ways to close them. This is only the beginning. We need fresh eyes and new
+ideas.
+
+Doors open at 6:30 and presentations begins at 7pm.
+
+##### Sponsored by Elemental Technologies
+
+This month Elemental is providing free pizza and beer/soda, so join us!
