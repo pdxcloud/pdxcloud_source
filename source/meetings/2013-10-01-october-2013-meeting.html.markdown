@@ -1,5 +1,5 @@
 ---
-title: October 10th, 2013
+title: October 9th, 2013
 subtitle: Open Discussion
 archive: false
 calagator: http://calagator.org/events/1250465019
