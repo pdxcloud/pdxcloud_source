@@ -1,7 +1,7 @@
 ---
 title: September 11th, 2013
 subtitle: Cloud-Native DevOps
-archive: false
+archive: true
 calagator: http://calagator.org/events/1250464361
 meetup: http://www.meetup.com/PDXCloud/events/139304862/
 ---

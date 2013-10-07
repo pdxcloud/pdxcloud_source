@@ -1,7 +1,7 @@
 ---
 title: June 12th, 2013
 subtitle: Business Case for Cloud Computing
-archive: false
+archive: true
 calagator: http://calagator.org/events/1250464361
 meetup: http://www.meetup.com/PDXCloud/events/123065012/
 ---
