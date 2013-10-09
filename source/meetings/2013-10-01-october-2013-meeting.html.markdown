@@ -1,13 +1,18 @@
 ---
 title: October 9th, 2013
-subtitle: Open Discussion
+subtitle: State of Distributed Systems and Tiered Applications
 archive: false
 calagator: http://calagator.org/events/1250465019
 meetup: http://www.meetup.com/PDXCloud/events/144357022/
 ---
 
-## Topic: Open Discussion
-We're still waiting to see if anyone wants to do a formal presentation this Wednesday evening. If we can't find a speaker, let's plan on a general sharing of cloud experiences. If there are any topics of discussion you'd like to request, or if there are points you've learned about cloud tech that you'd like to share, please bring them! Feel free to hit up the mailing list (https://groups.google.com/forum/#!forum/pdxcloud) and toss around some ideas.
+## Topic: State of Distributed Systems and Tiered Applications
+### Adron Hall
+#### [Composite Code](http://compositecode.com/), [NodePDX](http://nodepdx.org/)
+
+Adron will dive into distributed systems and what they've enabled us to create - vast super computers, huge social networks, e-commerce, and more - and then he'll go into tiered systems and what they bring us - faster development time, domain specific and line of business applications, and so on. From there, he'll bring those two topics into the cloud and talk about what that technology has brought us, and where we're headed in the future.
+
+To wrap it up, Adron will talk about what the next steps are for the industry: what's needed and where are the weak points? Where do we break down when trying to build large systems vs. fast systems vs. easy to build and maintain systems?
 
 Doors open at 6:30 and meeting begins at 7pm.
 
