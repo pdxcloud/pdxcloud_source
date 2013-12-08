@@ -1,7 +1,7 @@
 ---
 title: November 13th, 2013
 subtitle: From Ground to Cloud
-archive: false
+archive: true
 calagator: http://calagator.org/events/1250465203
 meetup: http://www.meetup.com/PDXCloud/events/150441522/
 ---
