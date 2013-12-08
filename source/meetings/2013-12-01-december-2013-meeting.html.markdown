@@ -1,6 +1,6 @@
 ---
 title: December 11th, 2013
-subtitle: Panel: Why We Chose Cloud, and What We've Learned
+subtitle: "Panel: Why We Chose Cloud, and What We've Learned"
 archive: false
 calagator: http://calagator.org/events/1250465307
 meetup: http://www.meetup.com/PDXCloud/events/154612032/
