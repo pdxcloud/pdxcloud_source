@@ -15,6 +15,14 @@ This Wednesday we will have a panel of guests talking around the theme, "Why We 
 
 For the rest of you, bring plenty of questions for our panelists!
 
+#### Panelists
+
+E.J. Finneran, Brad Heller, Carl Hall, [Cloudability](https://cloudability.com/)
+
+Al Kari, [DetaCloud](http://www.detacloud.com/)
+
+Jesse Rosenzweig, [Elemental Technologies](http://elementaltechnologies.com)
+
 As usual, we'll have pizza, beer, and other refreshments, and additionally, we'll have a birthday cake to celebrate PDXCloud's 1 year anniversary!
 
 As usual, doors open at 6:30pm, meeting starts at 7pm. Hope to see you on Wednesday!
