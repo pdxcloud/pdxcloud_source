@@ -1,36 +1,18 @@
 ---
 title: January 8th, 2013
-subtitle: "Discussion: Creating a How-To Resource for the Cloud Community"
+subtitle: "OpenStack User Group NW"
 archive: false
 calagator: http://calagator.org/events/1250465436
-meetup: http://www.meetup.com/PDXCloud/events/158974902/
+meetup: http://www.meetup.com/OpenStack-Northwest/events/151114422/
 ---
 
-## Discussion: Creating a How-To Resource for the Cloud Community
-### Open to all attendees
+No regular meeting this week, instead please join us at the
+OpenStack NW meetup:
 
-Hey everyone, welcome to 2014! For the first meeting of the year, I thought we could have an open discussion.
+"Some of the core contributors, developers and implementers of OpenStack are flying over to Portland to bring you the latest and greatest in Cloud storage. And generous sponsors are buying us dinner and beer. This meetup is quickly growing to be one of the most interesting events in the Northwest for those wanting to stay on top of advancement in the future of computing."
 
-Let’s see if we can put together a list of tools and tips targeted to companies and organizations just getting started with cloud technology. The end goal would be to create a community-written how-to resource that we could post to pdxcloud.com.
+Meeting is held at Jama South:
+334 NW 11th Ave, Portland
 
-Tools:
+6pm to 9pm. See [Meetup](http://www.meetup.com/OpenStack-Northwest/events/151114422/) for more details.
 
-* Cloud Service Providers
-* Configuration Management Systems
-* Monitoring/Alerting
-* Centralized Logging
-* Cost Management
-* Code/Deployment Management
-
-Tips:
-
-* Security
-* Development in Cloud
-  * Eventual Consistency
-  * Design for Failure
-  * Distributed Systems
-* Backup and Disaster Recovery Planning
-
-If you have more categories to add to the list, please bring them to the meeting. If you have a tool or technique you’d like to demonstrate or present on (formally or informally), that would be fantastic. And most importantly, if you can identify gaps in your cloud technology knowledge or implementation that you’d like to delve into as part of this discussion, definitely plan to share those points.
-
-As always, there will be pizza and refreshments. Doors open at 6:30pm, meeting starts at 7pm. Looking forward to seeing you all on Wednesday!
