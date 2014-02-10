@@ -1,7 +1,7 @@
 ---
-title: January 8th, 2013
+title: January 8th, 2014
 subtitle: "OpenStack User Group NW"
-archive: false
+archive: true
 calagator: http://calagator.org/events/1250465436
 meetup: http://www.meetup.com/OpenStack-Northwest/events/151114422/
 ---
