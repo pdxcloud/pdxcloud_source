@@ -1,7 +1,7 @@
 ---
 title: February 12th, 2014
 subtitle: "Cloud Tools"
-archive: false
+archive: true
 calagator: http://calagator.org/events/1250465607
 meetup: http://www.meetup.com/PDXCloud/events/165549982/
 ---

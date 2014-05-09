@@ -1,0 +1,24 @@
+---
+title: May 14th, 2014
+subtitle: "Orchestrate and Stackdriver"
+archive: false
+calagator: http://calagator.org/events/1250465610
+meetup: http://www.meetup.com/PDXCloud/events/176163212/
+---
+
+Exciting meeting this month: two really interesting and useful cloud technologies to talk about.
+
+
+Exciting meeting coming up this month! We have two really interesting and useful cloud technologies to talk about: database-as-a-service, and monitoring-as-a-service.
+
+## Orchestrate
+### Matt Heitzenroder, COO of Orchestrate
+
+Matt Heitzenroder is the co-founder and COO of [Orchestrate](http://orchestrate.io), which is a new startup here in Portland. Orchestrate is a Database-as-a-Service, which unifies multiple types of databases behind a single REST API that is optimized for queries like full-text search, graph, time-series, geospatial, and key/value. Matt will talk about his experience with databases in the cloud and what led him and his co-founders to create Orchestrate. Matt will share the vision of Orchestrate for cloud and databases and top off the evening with a demo and Q&A session.
+
+## Stackdriver
+### Josh Vaughn-Uding, Senior DevOps Engineer, CrowdCompass
+
+Josh will present on how his team at [CrowdCompass](http://crowdcompass.com) monitors their AWS environment using Stackdriver. [Stackdriver](http://www.stackdriver.com/) provides powerfully simple monitoring-as-a-service that helps DevOps spend more time on dev and less on ops. Created by a team of DevOps and SaaS experts and backed by Bain Capital Ventures and Flybridge Capital Partners, Stackdriver focuses on helping cloud-powered companies address performance bottlenecks before they impact customers while reducing the burden associated with patchwork monitoring solutions.
+
+As always, there will be pizza and refreshments. Doors open at 6:30pm, meeting starts at 7pm. Looking forward to seeing you all Wednesday night!
