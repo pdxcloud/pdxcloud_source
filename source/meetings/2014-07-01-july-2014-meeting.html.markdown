@@ -1,0 +1,24 @@
+---
+title: July 9th, 2014
+subtitle: "Reduced Footprint Cloud OS and Triple-O(penStack)"
+archive: false
+calagator: http://calagator.org/events/1250466436
+meetup: http://www.meetup.com/PDXCloud/events/192008812/
+---
+
+Another dual-topic month!
+
+## When Less is More – Reduced Footprint Cloud OS
+### Steve Sakoman, Project Architect, Intel Open Source Technology Center
+### Margaret LaBrecque, Evangelist, Intel Open Source Technology Center
+
+Do you roll, have you rolled, or would–you-consider-if-it-were-easier rolling your own (RYO) cloud OS? (and this includes customizing a cloud OS that you derive from CentOS, Ubuntu Cloud, etc.) General purpose Linux distributions have competed for years on the basis of application and platform breadth. In recent years, Linux has exploded in mobile, in large part because it was reassembled from the ground up for smartphones, tablets and wearables. And now we’re seeing numerous streamlined, “minimal footprint” Linux distributions for the Cloud, networking and other server applications where general purpose distributions are overkill. With tailored footprint Linux distributions in mind, we’d like to explore the motivations behind (or against) “rolling your own” Cloud OS.
+
+## [TripleO](https://wiki.openstack.org/wiki/TripleO) (Openstack on Openstack)
+### Gregory Haynes
+
+TripleO is an OpenStack program aimed at installing, upgrading, and operating OpenStack clouds using OpenStack's own facilities. This is done using Ironic (or nova-bm) for bare metal deployments, Heat for orchestration, diskimage-builder for (you guessed it!) building disk images, and an array of other tools.
+
+This talk will give a crash course on the motivation behind TripleO and some of its components, how it works, and how were trying to bring CI/CD clouds to the masses by using golden-image based deployments.
+
+As always, there will be pizza and refreshments. Doors open at 6:30pm, meeting starts at 7pm. Looking forward to seeing you all Wednesday night!
