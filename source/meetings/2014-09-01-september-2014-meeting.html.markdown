@@ -1,7 +1,7 @@
 ---
 title: September 10th, 2014
 subtitle: "Getting Grounded and Deis, the PaaS powered by Docker and CoreOS"
-archive: false
+archive: true
 calagator: http://calagator.org/events/1250466912
 meetup: http://www.meetup.com/PDXCloud/events/202072972/
 ---
